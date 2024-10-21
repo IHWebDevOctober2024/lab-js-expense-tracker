@@ -1,5 +1,9 @@
 // Entry
-class Entry {}
+class Entry {
+    constructor(){
+        this.amount = 0;
+    }
+}
 
 // Income
 class Income {}
