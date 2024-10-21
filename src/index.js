@@ -2,6 +2,12 @@
 class Entry {
     constructor(){
         this.amount = 0;
+        dsafsa
+        fdsagdsa
+
+        gfdagmñfdkmhfdsñkhnmsrtç´true.,566
+        45òj
+        
     }
 }
 
