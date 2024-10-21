@@ -1,14 +1,9 @@
 // Entry
 class Entry {
-    constructor(){
-        this.amount = 0;
-        dsafsa
-        fdsagdsa
-
-        gfdagmñfdkmhfdsñkhnmsrtç´true.,566
-        45òj
-        
-    }
+  constructor() {
+    this.amount = 0;
+    this.name = "Lucas";
+  }
 }
 
 // Income
