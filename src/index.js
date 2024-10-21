@@ -7,7 +7,11 @@ class Entry {
 }
 
 // Income
-class Income {}
+class Income {
+  constructor() {
+    this.budget = 1000;
+  }
+}
 
 // Expense
 class Expense {}
