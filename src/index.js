@@ -1,8 +1,9 @@
 // Entry
 class Entry {
-    constructor(){
-        this.amount = 0;
-    }
+  constructor() {
+    this.amount = 0;
+    this.name = "Lucas";
+  }
 }
 
 // Income
